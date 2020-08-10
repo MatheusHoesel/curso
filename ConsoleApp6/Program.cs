@@ -8,6 +8,7 @@ namespace ConsoleApp6
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("git bash teste 1");
+            Console.WriteLine("Teste github");
 
         }
     }
